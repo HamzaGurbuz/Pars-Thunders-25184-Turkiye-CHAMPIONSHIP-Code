@@ -21,9 +21,9 @@ Features
 ## Installation & Setup
 
 
-  # Clone this repository to your local machine
+  #### Clone this repository to your local machine
   git clone https://github.com/ParsRobotics/ParsThunders-WattWheel.git
-  # Open the project in Android Studio and deploy to the robot
+  #### Open the project in Android Studio and deploy to the robot
 
 ## Controls
 
