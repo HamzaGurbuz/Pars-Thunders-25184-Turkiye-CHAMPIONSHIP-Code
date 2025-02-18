@@ -1,4 +1,4 @@
-#Pars Thunders Championship Robot - WattWheel Edition
+# Pars Thunders Championship Robot - WattWheel Edition
 
 Overview
 
@@ -18,14 +18,16 @@ Features
 
 **Driver Assist Functions**: Includes field-centric driving and dynamic speed adjustment.
 
-#Installation & Setup
+## Installation & Setup
 
   ```bash
   # Clone this repository to your local machine
   git clone https://github.com/ParsRobotics/ParsThunders-WattWheel.git
   # Open the project in Android Studio and deploy to the robot
 
-#Controls
+
+
+## Controls
 
   ```bash
   Move Forward/Backward: Left Stick Y
