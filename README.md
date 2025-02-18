@@ -20,14 +20,13 @@ Features
 
 ## Installation & Setup
 
-  ```bash
+
   # Clone this repository to your local machine
   git clone https://github.com/ParsRobotics/ParsThunders-WattWheel.git
   # Open the project in Android Studio and deploy to the robot
 
-
-
 ## Controls
+
 
   ```bash
   Move Forward/Backward: Left Stick Y
